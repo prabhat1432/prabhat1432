@@ -1,8 +1,26 @@
-### Hi there 👋
+# Ciao, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<img src="https://raw.githubusercontent.com/malhotra1432/malhotra1432/master/assets/devs.gif" width="1000px">
+
+<details>
+  <summary>
+    GitHub Stats
+  </summary>
+  <a href="https://github.com/prabhat1432/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=prabhat1432&show_icons=true&theme=cobalt" alt="Prabhat Malhotra's GitHub Stats"/>
+  </a>
+</details>
+
+<details>
+  <summary>
+    Top Languages
+  </summary>
+  <a href="https://github.com/prabhat1432/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhat1432&layout=compact&theme=cobalt&langs_count=10" alt="Prabhat Malhotra's GitHub Top Languages"/>
+  </a>
+</details>
 
 <!--
-**prabhat1432/prabhat1432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
